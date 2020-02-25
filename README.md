@@ -1,5 +1,5 @@
 # deep-learning-sound-source-separation
-CSC 486B Group Project (with Quinton Yong and Jingjing Zhu): An Exploration and Implementation of “Learning to Separate Object Sounds by Watching Unlabelled Video”
+CSC 486B (Deep Learning for Computer Vision) Group Project (with Quinton Yong and Jingjing Zhu): An Exploration and Implementation of “Learning to Separate Object Sounds by Watching Unlabelled Video”
 
 We use a reduced dataset of 4000 samples with the following 4 instrument classes: drum, acoustic guitar, piano and violin.
 
